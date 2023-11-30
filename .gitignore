@@ -1,0 +1,6 @@
+
+*.vsidx
+.vs/
+*.suo
+*/obj/
+*/bin/
